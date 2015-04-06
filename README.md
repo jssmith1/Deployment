@@ -40,4 +40,4 @@ res.send("Switched from " + color);
 ```
 
 ### Demonstrate mirroring: 100%
-The MIRROR flag can be set to true or false for the blue and/or green deployment. This flag is used to check whether to mirror requests pushes/pops onto the other deployment.
+The MIRROR flag can be set to true or false for the blue and/or green deployment. This flag is used to check whether to mirror image pushes/pops onto the other deployment.
